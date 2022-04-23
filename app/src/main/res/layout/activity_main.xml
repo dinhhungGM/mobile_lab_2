@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
 
-    tools:context="uit.lap2.ex2_18520791.MainActivity">
+    tools:context="uit.lab2.ex2_18520791.MainActivity">
 
 
     <Button

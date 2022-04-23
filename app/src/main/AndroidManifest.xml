@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="uit.lap2.ex2_18520791">
+    package="uit.lab2.ex2_18520791">
 
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ex2_18520791">
         <activity
-            android:name="uit.lap2.ex2_18520791.MainActivity"
+            android:name="uit.lab2.ex2_18520791.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,12 +23,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="uit.lap2.ex2_18520791.MenuActivity" android:exported="false"/>
-        <activity android:name="uit.lap2.ex2_18520791.CalculatorActivity" android:exported="false"/>
-        <activity android:name="uit.lap2.ex2_18520791.ColorActivity" android:exported="false"/>
-        <activity android:name="uit.lap2.ex2_18520791.ContactActivity" android:exported="false"/>
-        <activity android:name="uit.lap2.ex2_18520791.ContactFinishActivity" android:exported="false"/>
-        <activity android:name="uit.lap2.ex2_18520791.IntentActivity" android:exported="false"/>
+        <activity android:name="uit.lab2.ex2_18520791.MenuActivity" android:exported="false"/>
+        <activity android:name="uit.lab2.ex2_18520791.CalculatorActivity" android:exported="false"/>
+        <activity android:name="uit.lab2.ex2_18520791.ColorActivity" android:exported="false"/>
+        <activity android:name="uit.lab2.ex2_18520791.ContactActivity" android:exported="false"/>
+        <activity android:name="uit.lab2.ex2_18520791.ContactFinishActivity" android:exported="false"/>
+        <activity android:name="uit.lab2.ex2_18520791.IntentActivity" android:exported="false"/>
     </application>
 
 </manifest>

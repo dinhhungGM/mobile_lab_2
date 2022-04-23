@@ -1,4 +1,4 @@
-package uit.lap2.ex2_18520791;
+package uit.lab2.ex2_18520791;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("uit.lap2.Ex2_18520791", appContext.getPackageName());
+        assertEquals("uit.lab2.ex2_18520791", appContext.getPackageName());
     }
 }

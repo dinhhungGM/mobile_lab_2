@@ -1,4 +1,4 @@
-package uit.lap2.ex2_18520791;
+package uit.lab2.ex2_18520791;
 
 import android.content.Intent;
 import android.os.Bundle;
